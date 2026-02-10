@@ -1,7 +1,8 @@
 # 📝 Journal Notes Application
 
-A Spring Boot–based RESTful backend application t<img width="1440" height="900" alt="POST" src="https://github.com/user-attachments/assets/70b6216e-e8a3-4ad1-aab3-fc16ea026d5b" />
-hat allows users to create, view, update, and delete journal entries using REST APIs.
+A Spring Boot–based RESTful backend application that allows users to create, view, update, and delete journal entries using REST APIs.
+
+<img width="1440" height="900" alt="POST" src="https://github.com/user-attachments/assets/70b6216e-e8a3-4ad1-aab3-fc16ea026d5b" />
 
 ## 🚀 Features
 - CRUD operations for journal entries
